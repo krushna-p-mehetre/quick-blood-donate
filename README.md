@@ -17,6 +17,15 @@
 </ul>
 <hr>
 
+<h2>🧪 API Testing (My Modules)</h2>
+<ul>
+  <li>Tested <strong>Donor module APIs</strong> using Postman for profile management and eligibility validation.</li>
+  <li>Verified <strong>Donation service APIs</strong> for recording and retrieving donation events.</li>
+  <li>Tested <strong>Donation Camp APIs</strong> to validate camp creation and donor-to-camp donation mapping.</li>
+  <li>Validated request–response flow for secured APIs using JWT tokens.</li>
+</ul>
+<hr>
+
 <h2>🔐 Security (Basic Implementation)</h2>
 <ul>
   <li>Implemented basic JWT-based authentication using Spring Security.</li>
