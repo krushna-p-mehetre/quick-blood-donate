@@ -17,7 +17,7 @@
 </ul>
 <hr>
 
-<h2>🧪 API Testing (My Modules)</h2>
+<h2>🧪 API Testing</h2>
 <ul>
   <li>Tested <strong>Donor module APIs</strong> using Postman for profile management and eligibility validation.</li>
   <li>Verified <strong>Donation service APIs</strong> for recording and retrieving donation events.</li>
